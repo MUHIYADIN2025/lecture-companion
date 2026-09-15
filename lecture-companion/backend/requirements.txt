@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+pydantic-settings==2.6.0
+websockets==13.1
+faster-whisper==1.0.3
+chromadb==0.5.18
+sentence-transformers==3.2.1
+httpx==0.28.1
+numpy==1.26.4
+python-dotenv==1.0.1
+sqlalchemy==2.0.36
